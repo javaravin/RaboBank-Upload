@@ -1,0 +1,7 @@
+
+p
+java:S1128	"SRemove this unused import 'org.springframework.web.bind.annotation.RequestMapping'.(ö»¿ë8“ûÑ‰Ì.
+>
+java:S1148$"#Use a logger to log this exception.(€ÉÔ…ýÿÿÿÿ
+n
+java:S3008"XRename this field "UPLOAD_FOLDER" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ý¼…ö
